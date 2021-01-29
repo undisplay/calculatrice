@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611890558 source:/home/freedy/Projects/calculatrice/main.cpp
+	<iostream>
+	<string>
+
